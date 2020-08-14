@@ -1,4 +1,4 @@
-# Hi there, I'm Chase Goldfeld, a recent Data Science graduate.
+# I'm Chase Goldfeld, a Data Scientist.
 
 Now I am learning everything about **mobile data**.
 
