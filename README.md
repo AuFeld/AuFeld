@@ -6,7 +6,7 @@ I love big data and I can not lie.
 
 - 👨🏽‍💻 I’m a recent Data Science graduate from Lambda School; 
 - 🤔 My interests are machine learning, data engineering, mobile data, Python etc..;
-- 💼 I’m pursuing a career as a data scientist that translates mobile data points into business insights;
+- 💼 I’m pursuing a career as a Data Scientist that translates mobile data points into business insights;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
