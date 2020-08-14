@@ -1,8 +1,6 @@
 # I'm Chase Goldfeld, a Data Scientist.
 
-Now I am learning everything about **mobile data**.
-
-I love big data and I love Python.
+I love big data and I can not lie.
 
 ### Talking about Personal Stuff:
 
