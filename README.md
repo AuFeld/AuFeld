@@ -1,8 +1,4 @@
-![Hey there, I'm Chase. I'm a data scientist.](https://github.com/AuFeld/AuFeld/raw/master/assets/bio.gif)
-
-## Hey 👋, I'm Chase Goldfeld
-
-Hi there, I'm **Chase Goldfeld**, a **recent Data Science graduate**.
+# Hi there, I'm Chase Goldfeld, a recent Data Science graduate.
 
 Now I am learning everything about **mobile data**.
 
