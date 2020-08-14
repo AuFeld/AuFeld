@@ -4,7 +4,7 @@ Now I am learning everything about **mobile data**.
 
 I love big data and I love Python.
 
-### Talking about Personal Stuffs:
+### Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m a recent Data Scientist graduate from Lambda School; 
 - 🤔 My interests are machine learning, data engineering, mobile data, Python etc..;
