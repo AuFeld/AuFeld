@@ -9,7 +9,7 @@ I love big data and I can not lie.
 - 💼 I’m pursuing a career as a Data Scientist that translates mobile data points into business insights;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
-- **Feel free to check out ![my resume](/assets/CG_Resume.pdf).** 
+- **Feel free to check out ![my resume](https://github.com/AuFeld/assets/CG_Resume.pdf).** 
 
 ### Languages and Tools:
 
