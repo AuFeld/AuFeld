@@ -4,7 +4,7 @@ I love big data and I can not lie.
 
 ### Talking about Personal Stuff:
 
-- 👨🏽‍💻 I’m a Data Science graduate and a Data Science Project Lead at Lambda School; 
+- 👨🏽‍💻 I’m a Data Science graduate and an Associate Product Lead at Lambda School; 
 - 🤔 My interests are machine learning, data engineering, data visualizations, and computer science;
 - 💼 I’m pursuing a career as a Data Scientist that translates data points into business insight;
 - 💬 Ask me about anything, I am happy to help;
