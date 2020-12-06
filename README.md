@@ -1,6 +1,4 @@
-# I'm Chase Goldfeld, a Data Scientist.
-
-I love big data and I can not lie.
+# I love big data and I can not lie
 
 ### Talking about Personal Stuff:
 
