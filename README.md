@@ -3,7 +3,7 @@
 ### Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m a Data Science graduate and an Associate Product Lead at Lambda School; 
-- 🤔 My interests are data engineering, soccer, data structures, and algorithms;
+- 🤔 My interests are data engineering, data structures, algorithms, and soccer;
 - 💼 I’m pursuing a career as a Data Engineer that transforms data for business insight;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
