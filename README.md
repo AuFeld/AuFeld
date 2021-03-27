@@ -2,11 +2,11 @@
 
 ### A Little About Me:
 
-- 👨🏽‍💻 I’m a Data Science graduate and an Associate Product Lead at Lambda School; 
-- 🤔 My interests are data engineering, software engineering, data structures, algorithms, soccer, and a dash of humor;
-- 💼 I’m pursuing a career to design, engineer, and improve server-side data and applications;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
+- 👨🏽‍💻 I’m a Data Science graduate and an Associate Product Lead at Lambda School
+- 🤔 My interests are data engineering, software engineering, data structures, algorithms, soccer, and a dash of humor
+- 💼 I’m pursuing a career to design, engineer, and improve server-side data and applications
+- 💬 Ask me about anything, I am happy to help
+- 📫 Please email me if you have any questions
 
 ### Languages and Tools:
 
