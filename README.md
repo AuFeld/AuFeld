@@ -1,5 +1,3 @@
-# I love big data and I can not lie
-
 ### A Little About Me:
 
 - 👨🏽‍💻 I’m a Data Science graduate and an Associate Product Lead at Lambda School
