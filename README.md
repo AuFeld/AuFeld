@@ -2,7 +2,7 @@
 
 - 👨🏽‍💻 I’m a Data Science graduate and an Associate Product Lead at Lambda School
 - 🤔 My interests are data engineering, software engineering, data structures, and algorithms
-- 💼 I’m pursuing a career to design, engineer, and improve server-side data and applications
+- 💼 I’m pursuing a career to design, engineer, and optimize: server-side data, pipelines, and applications
 - 💬 Ask me about anything, I am happy to help
 - 📫 Please email me if you have any questions
 
