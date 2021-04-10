@@ -1,7 +1,7 @@
 ### A Little About Me:
 
 * 👨🏽‍💻 I’m a Data Science graduate and former Associate Product Lead at Lambda School
-* 🤔 My interests are data engineering, backend software engineering, data structures, and algorithms
+* 🤔 My interests are data engineering, backend software engineering, data structures, algorithms, problem solving, and creating value
 * 💼 I’m pursuing a career as a Data Engineer to design, engineer, and optimize: server-side data, pipelines, and platforms
 * :computer: Working on coding ![Data Engineering Projects](https://github.com/AuFeld/Data_Engineering_Projects)
 * :books: Reading ![Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
