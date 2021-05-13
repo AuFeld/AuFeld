@@ -4,7 +4,7 @@
 * 🤔 My interests are data engineering, data structures, algorithms, problem solving, and creating value
 * 💼 I’m pursuing a career as a Data Engineer to design, engineer, and optimize: server-side data, pipelines, and platforms
 * :computer: Working on coding ![Data Engineering Projects](https://github.com/AuFeld/Data_Engineering_Projects)
-* :books: Reading [Designing Data-Intensive Applications](https://dataintensive.net/)
+* :books: Reading [Designing Data-Intensive Applications](https://dataintensive.net/) & [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 * 💬 Ask me about anything, I am happy to help
 * 📫 Please email me if you have any questions
 
