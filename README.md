@@ -8,11 +8,10 @@
 * 💬 Ask me about anything, I am happy to help
 * 📫 Please email me if you have any questions
 
-### Contact Me
+### Contact
 
-- Portfolio [![website](https://img.shields.io/badge/https://aufeld.github.io-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://aufeld.github.io)
-- Email [![Email](https://img.shields.io/badge/goldfeld.chase@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:goldfeld.chase@gmail.com)
-- Linkedin [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chase-goldfeld/)](https://www.linkedin.com/in/chase-goldfeld/)
+- [![Email](https://img.shields.io/badge/goldfeld.chase@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:goldfeld.chase@gmail.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chase-goldfeld/)](https://www.linkedin.com/in/chase-goldfeld/)
 
 ### GitHub Stats
 
