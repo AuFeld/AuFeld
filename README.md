@@ -1,7 +1,7 @@
 ### A Little About Me
 
 * 👨🏽‍💻 I’m a Data Science graduate and an Associate Product Lead at Lambda School
-* 🤔 My interests are data engineering, data structures, algorithms, problem solving, and creating value
+* 🤔 My interests are data engineering, problem solving, and creating value
 * 💼 I’m pursuing a career as a Data Engineer to design, engineer, and optimize: server-side data, pipelines, and platforms
 * :computer: Collaborating and coding [COAG](https://github.com/AuFeld/COAG)
 * :books: Reading [Designing Data-Intensive Applications](https://dataintensive.net/) and [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
