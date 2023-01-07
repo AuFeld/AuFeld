@@ -1,6 +1,6 @@
 ### A Little About Me
 
-* I’m a Data Engineer within the engineering team at Thought Industries
+* Data Engineer
 * Ask me about anything, I am happy to help
 * Please email me if you have any questions
 
