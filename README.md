@@ -1,8 +1,7 @@
 ### A Little About Me
 
 * Data Engineer
-* Ask me about anything, I am happy to help
-* Please email me if you have any questions
+* Currently, going down a rabbit hole into [DBT](https://github.com/AuFeld/DBT/tree/main/dbtlearn)
 
 ### Contact
 
