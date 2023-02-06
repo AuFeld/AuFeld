@@ -1,8 +1,3 @@
-### A Little About Me
-
-* Data Engineer
-* Currently, going down a rabbit hole into [DBT](https://github.com/AuFeld/DBT/tree/main/dbtlearn)
-
 ### Contact
 
 - [![Email](https://img.shields.io/badge/goldfeld.chase@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:goldfeld.chase@gmail.com)
